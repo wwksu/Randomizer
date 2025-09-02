@@ -1,0 +1,45 @@
+{
+  "ranges": [
+    {
+      "id": 1,
+      "name": "Маленькие числа",
+      "min": 1,
+      "max": 10,
+      "description": "Числа от 1 до 10"
+    },
+    {
+      "id": 2,
+      "name": "Средние числа",
+      "min": 1,
+      "max": 100,
+      "description": "Числа от 1 до 100"
+    },
+    {
+      "id": 3,
+      "name": "Большие числа",
+      "min": 1,
+      "max": 1000,
+      "description": "Числа от 1 до 1000"
+    },
+    {
+      "id": 4,
+      "name": "Лотерея",
+      "min": 1,
+      "max": 49,
+      "description": "Числа для лотереи"
+    },
+    {
+      "id": 5,
+      "name": "Кубик",
+      "min": 1,
+      "max": 6,
+      "description": "Имитация броска кубика"
+    }
+  ],
+  "history": [],
+  "statistics": {
+    "totalRolls": 0,
+    "mostFrequentNumbers": [],
+    "lastRolls": []
+  }
+}
